@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Biodata-Assignment-1/static/css/main.01b779c0.css",
+    "main.js": "/Biodata-Assignment-1/static/js/main.c11d49ec.js",
+    "static/js/787.24fe74f2.chunk.js": "/Biodata-Assignment-1/static/js/787.24fe74f2.chunk.js",
+    "index.html": "/Biodata-Assignment-1/index.html",
+    "main.01b779c0.css.map": "/Biodata-Assignment-1/static/css/main.01b779c0.css.map",
+    "main.c11d49ec.js.map": "/Biodata-Assignment-1/static/js/main.c11d49ec.js.map",
+    "787.24fe74f2.chunk.js.map": "/Biodata-Assignment-1/static/js/787.24fe74f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01b779c0.css",
+    "static/js/main.c11d49ec.js"
+  ]
+}
